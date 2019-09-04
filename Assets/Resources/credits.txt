@@ -1,0 +1,22 @@
+﻿t:Producers
+Renan Santana Desiderio
+
+t:Designers
+Renan Santana Desiderio
+Renan Santana Desiderio
+Renan Santana Desiderio
+
+t:Lead Programmers
+Renan Santana Desiderio
+Renan Santana Desiderio
+
+t: 2D Artists
+Renan Santana Desiderio
+Renan Santana Desiderio
+Renan Santana Desiderio
+
+t:Sound Design
+Renan Santana Desiderio
+
+t:Musics
+Renan Santana Desiderio
